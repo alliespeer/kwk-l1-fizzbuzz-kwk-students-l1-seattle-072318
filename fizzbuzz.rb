@@ -5,7 +5,6 @@ def fizzbuzz(int = 3)
   "Fizz" 
 elsif (int % 5 == 0)
    "Buzz"
-else
     
     end
 end
